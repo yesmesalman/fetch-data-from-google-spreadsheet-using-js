@@ -5,7 +5,7 @@ Download or copy code of index.html and add credentials, In console you will see
 # Get all credentials
 Go to https://docs.google.com/spreadsheets/u/0/ and select your spread sheet that you want to fetch and copy the spread sheet id from the link.
 
-Go to https://developers.google.com and sign in with gmail account
+Go to https://console.developers.google.com/ and sign in with gmail account
 
 Create a new project
 
