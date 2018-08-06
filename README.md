@@ -11,8 +11,9 @@ Create a new project
 
 Go to crendentials tab and click on create crendentials button and select API key button and copy your API Key.
 
-Go to library tab and search for Google Sheets API and click on enable button then click on create crendentials button then select Google
-Sheets API from first drop down (Which API are you using?).
+Go to library tab and search for Google Sheets API and click on enable
+Go back to https://console.developers.google.com/ and go to credentials tab and click on create crendentials button then select Google
+Sheets API from first drop down (Which API are you using).
 
 Select Web browser (Javascript) fron second drop down (Where will you be calling the API from?).
 
