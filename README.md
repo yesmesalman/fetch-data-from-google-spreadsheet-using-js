@@ -2,7 +2,7 @@
 
 Download or copy code of index.html and add credentials, In console you will see the array of Rows and Columns from Spreadsheet.
 
-# Get all credentials
+### Get all credentials
 Go to https://docs.google.com/spreadsheets/u/0/ and select your spread sheet that you want to fetch and copy the spread sheet id from the link.
 
 Go to https://console.developers.google.com/ and sign in with gmail account
@@ -30,5 +30,5 @@ And click on Create OAuth client ID button
 Copy the client ID 
 
 
-# Contributors
+### Contributors
   - Salman <salmanmemon569@yahoo.com>
