@@ -28,6 +28,7 @@ Authorized JavaScript origins : LINK_OF_YOUR_WEBSITE_WITHOUT_ANY_SUBDIRECTORY
 And click on Create OAuth client ID button
 
 Copy the client ID 
+Paste the all credentials in file and run.
 
 
 ### Contributors
